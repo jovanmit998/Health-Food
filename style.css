@@ -1,0 +1,72 @@
+
+
+body{
+background-color:lightblue;
+
+}
+.pozadina{
+	background-color:green;
+}
+.Tekst{
+	color:green;
+	font-family:Arial;
+}
+.Futer{
+	font-size:1.3em;
+	font-family:Arial;
+	color:green;
+	
+}
+.KontaktP{
+	font-size:1.1em;
+	font-family:Arial;
+}
+.Heder{
+	font-size:1.3em;
+	font-family:Arial;
+	color:blue;
+}
+.Deo{
+	color:orange;
+	
+}
+.link{
+	color:green;
+	
+}
+.Onama{
+	font-size:1.2em;
+	font-family:Arial;
+}
+.Opis{
+	font-size:1.2em;
+	font-family:Arial;
+	
+	
+}
+.Red{
+	background-color:white;
+	font-size:1.3em;
+}
+.Prijava{
+	float:right;
+}
+.Popust{
+	font-size:1.1em;
+	font-family:Arial;
+	color:green;
+}
+.Komentar{
+	color:green;
+	font-size:1.2em;
+	font-family:Arial;
+}
+.Komentar2{
+	color:red;
+}
+
+
+
+
+
+
